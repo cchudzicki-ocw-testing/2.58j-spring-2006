@@ -4,7 +4,12 @@ description: This resource explains Lorentz model, Drude model, Hagen-Rubens equ
   induced field effects, Debye relaxation, and Kramer-Kronig relations.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-58j-radiative-transfer-spring-2006/be80471d162aada020376bee27e33870_chap6_solid_prop.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: chap6_solid_prop.pdf
+type: OCWFile
 uid: be80471d-162a-ada0-2037-6bee27e33870
 ---

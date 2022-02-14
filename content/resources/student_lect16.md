@@ -4,7 +4,12 @@ description: This resource explains the topic solution of ERT for one-dimensiona
   gray media.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-58j-radiative-transfer-spring-2006/2acfec2f85a9189808bd85468254e683_student_lect16.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: student_lect16.pdf
+type: OCWFile
 uid: 2acfec2f-85a9-1898-08bd-85468254e683
 ---

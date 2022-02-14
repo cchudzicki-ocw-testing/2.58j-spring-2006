@@ -4,7 +4,12 @@ description: This resource explains the topics dielectric properties of solid, D
   model.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-58j-radiative-transfer-spring-2006/043167e28514b91d25ac7e476cca3d80_lecture10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture10.pdf
+type: OCWFile
 uid: 043167e2-8514-b91d-25ac-7e476cca3d80
 ---

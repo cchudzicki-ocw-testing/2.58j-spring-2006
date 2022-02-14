@@ -3,7 +3,12 @@ content_type: resource
 description: This resource explains the topic near field thermal radiation.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-58j-radiative-transfer-spring-2006/18a95cf847c2e3b0249e597e29b280e1_student_lect23.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: student_lect23.pdf
+type: OCWFile
 uid: 18a95cf8-47c2-e3b0-249e-597e29b280e1
 ---
