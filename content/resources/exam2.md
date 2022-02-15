@@ -10,6 +10,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: exam2.pdf
-type: OCWFile
 uid: b9ec9573-2c74-1019-2b00-fa88dd478bac
 ---

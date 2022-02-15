@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: chap6_solid_prop.pdf
-type: OCWFile
 uid: be80471d-162a-ada0-2037-6bee27e33870
 ---

@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: sol1.pdf
-type: OCWFile
 uid: c5a693b0-10bf-28d3-9bd8-ac5ac0983b86
 ---

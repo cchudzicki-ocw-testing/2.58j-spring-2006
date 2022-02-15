@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: sol4.pdf
-type: OCWFile
 uid: 203b6737-d013-b345-3dc4-6642c7755714
 ---
