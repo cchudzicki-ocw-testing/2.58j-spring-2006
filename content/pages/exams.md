@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section lists the exam files along with their solution files.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
