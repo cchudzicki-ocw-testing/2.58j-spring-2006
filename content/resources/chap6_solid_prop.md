@@ -6,6 +6,7 @@ file: /courses/2-58j-radiative-transfer-spring-2006/be80471d162aada020376bee27e3
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
